@@ -1,0 +1,25 @@
+# Entorno virtual de Python
+.venv/
+venv/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+
+# Variables y credenciales
+.env
+.env.*
+!.env.example
+*.key
+
+# Archivos del editor
+.vscode/
+.idea/
+
+# Modelos y archivos pesados
+*.pth
+*.pt
+*.h5
+
+# Archivos temporales
+*.log

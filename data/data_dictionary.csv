@@ -1,0 +1,24 @@
+﻿variable,descripcion,tipo,ejemplo_ficticio
+caso_id,Identificador seudónimo único,texto,CASO-0001
+grupo_expediente,Grupo de expedientes relacionados para evitar fuga,texto,GRUPO-01
+fecha_ingreso,Fecha de presentación (YYYY-MM-DD),fecha,2025-02-01
+fecha_resolucion,Fecha de resolución (YYYY-MM-DD),fecha,2025-02-10
+procedimiento,Procedimiento judicial,categoría,ALIMENTOS
+demanda_pdf,"Archivo seudónimo de demanda, nunca ruta personal",texto,CASO-0001_demanda.pdf
+resolucion_pdf,Archivo seudónimo de resolución,texto,CASO-0001_resolucion.pdf
+paginas_demanda,Páginas de demanda,entero,6
+paginas_resolucion,Páginas de resolución,entero,3
+demanda_extraible,¿PDF contiene texto extraíble?,booleano,SI
+resolucion_extraible,¿Resolución contiene texto extraíble?,booleano,SI
+requiere_ocr,¿Requiere OCR?,booleano,NO
+petitorio_presente,Petitorio identificado y revisado,estado,SI
+partes_identificadas,Partes identificadas,estado,SI
+firma_presente,Firma detectada y revisada,estado,SI
+anexos_identificados,Anexos identificados,estado,SI
+vinculo_documentado,Documento de vínculo según caso,estado,SI
+domicilio_demandado,Información de domicilio del demandado,estado,SI
+calificacion_validada,Etiqueta jurídica validada,clase,ADMISION
+motivo_observacion,"Defecto identificado, sin datos personales",texto,
+fundamento_normativo,Referencia normativa validada,texto,
+revision_experto,Revisión jurídica completada,booleano,SI
+observaciones_qa,Incidencias de calidad o ambigüedad,texto,
