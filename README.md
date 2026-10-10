@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EDA — Calificación de demandas de alimentos (Iyotatsiri / SISGESC)
 
 **Estado:** plantilla reproducible; **sin expedientes reales cargados**. No se reportan métricas ni resultados empíricos hasta disponer de un conjunto de datos anonimizado y validado.
@@ -29,3 +30,63 @@ git remote add origin https://github.com/TU_USUARIO/iyotatsiri-eda-calificacion-
 git push -u origin feature/eda-calificacion-alimentos
 ```
 El enlace que entregarás tendrá formato `https://github.com/TU_USUARIO/iyotatsiri-eda-calificacion-alimentos/tree/feature/eda-calificacion-alimentos` y será real solo después de publicarlo.
+=======
+# CalificacionDemanda
+Proyecto de Calificación de Demanda de los procesos de alimentos
+
+# Esquema
+IYOTATSIRI / SISGESC
+└── Calificación de Demanda de Alimentos
+    │
+    ├── 1. Preparación del dataset
+    │   ├── Expedientes históricos
+    │   ├── Demanda y anexos
+    │   ├── Anonimización
+    │   └── Etiquetado jurídico
+    │
+    ├── 2. Entrenamiento previo
+    │   ├── OCR
+    │   ├── Extracción de características
+    │   ├── Clasificación documental
+    │   └── Clasificador de calificación
+    │
+    ├── 3. Evaluación
+    │   ├── Train
+    │   ├── Validation
+    │   ├── Test
+    │   ├── Precision / Recall / F1
+    │   └── Matriz de confusión
+    │
+    ├── 4. Validación jurídica
+    │   ├── Requisitos procesales
+    │   ├── Evidencias encontradas
+    │   ├── Reglas jurídicas
+    │   └── Revisión de errores
+    │
+    ├── 5. Documentación
+    │   ├── Dataset utilizado
+    │   ├── Algoritmo
+    │   ├── Parámetros
+    │   ├── Métricas
+    │   ├── Limitaciones
+    │   └── Versión del modelo
+    │
+    ├── 6. Aprobación
+    │
+    └── 7. Uso en SISGESC
+        └── Demanda nueva
+             ↓
+            OCR
+             ↓
+        Análisis documental
+             ↓
+        Requisitos + evidencia
+             ↓
+        Reglas jurídicas
+             ↓
+        Modelo entrenado
+             ↓
+        PROPUESTA DE CALIFICACIÓN
+             ↓
+        Revisión humana
+>>>>>>> 80cd711231423549a784099d4afcd6c2793ed7de
