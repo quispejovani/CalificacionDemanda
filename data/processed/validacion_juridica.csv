@@ -1,0 +1,12 @@
+﻿caso_id,auto,palabras_clave,materia_validada,tipo_procedimiento,objeto_decision,decision_principal,etiqueta_validada,pagina_evidencia,observaciones,revisor,estado_revision
+CASO_001,caso_001\auto_1.pdf,admitir,,,,,,,,,PENDIENTE
+CASO_002,caso_002\auto_2.pdf,admitir;improcedente,,,,,,,,,PENDIENTE
+CASO_003,caso_003\auto_3.pdf,,,,,,,,,,PENDIENTE
+CASO_004,caso_004\auto_4.pdf,demanda_alimentos;admitir,,,,,,,,,PENDIENTE
+CASO_005,caso_005\auto_5.pdf,inadmisible;subsanar;archivo,,,,,,,,,PENDIENTE
+CASO_006,caso_006\auto_6.pdf,demanda_alimentos;admitir;improcedente,,,,,,,,,PENDIENTE
+CASO_007,caso_007\auto_7.pdf,,,,,,,,,,PENDIENTE
+CASO_008,caso_008\auto_8.pdf,demanda_alimentos;admitir;improcedente,,,,,,,,,PENDIENTE
+CASO_009,caso_009\auto_9.pdf,admitir;improcedente,,,,,,,,,PENDIENTE
+CASO_010,caso_010\auto_10.pdf,demanda_alimentos;admitir,,,,,,,,,PENDIENTE
+CASO_011,caso_011\auto_11.pdf,demanda_alimentos;admitir;improcedente,,,,,,,,,PENDIENTE
