@@ -1,0 +1,12 @@
+﻿caso_id,demanda_principal,documentos_complementarios,auto_judicial,estado
+CASO_001,caso_001\demanda_1.pdf,,caso_001\auto_1.pdf,pendiente_verificacion
+CASO_002,caso_002\demanda_2.pdf,,caso_002\auto_2.pdf,pendiente_verificacion
+CASO_003,caso_003\demanda_3.pdf,caso_003\demanda_3.1.pdf;caso_003\demanda_3.2.pdf;caso_003\demanda_3.3.pdf,caso_003\auto_3.pdf,pendiente_verificacion
+CASO_004,caso_004\demanda_4.pdf,,caso_004\auto_4.pdf,pendiente_verificacion
+CASO_005,caso_005\demanda_5.pdf,,caso_005\auto_5.pdf,pendiente_verificacion
+CASO_006,caso_006\demanda_6.pdf,,caso_006\auto_6.pdf,pendiente_verificacion
+CASO_007,caso_007\demanda_7.pdf,,caso_007\auto_7.pdf,pendiente_verificacion
+CASO_008,caso_008\demanda_8.pdf,,caso_008\auto_8.pdf,pendiente_verificacion
+CASO_009,caso_009\demanda_9.pdf,caso_009\demanda_9.1.pdf,caso_009\auto_9.pdf,pendiente_verificacion
+CASO_010,caso_010\demanda_10.pdf,caso_010\demanda_10.1.pdf;caso_010\demanda_10.2.pdf,caso_010\auto_10.pdf,pendiente_verificacion
+CASO_011,caso_011\demanda_11.pdf,,caso_011\auto_11.pdf,pendiente_verificacion

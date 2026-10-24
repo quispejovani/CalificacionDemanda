@@ -23,3 +23,16 @@ __pycache__/
 
 # Archivos temporales
 *.log
+# Expedientes judiciales y datos privados
+iyotatsiri/calificacion/data/raw/
+iyotatsiri/calificacion/data/anonymized/
+iyotatsiri/calificacion/data/processed/
+
+# Modelos y registros locales
+iyotatsiri/calificacion/models/
+iyotatsiri/calificacion/logs/
+
+# Entorno Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
