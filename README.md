@@ -29,7 +29,6 @@ git commit -m "EDA inicial de calificación de alimentos"
 git remote add origin https://github.com/TU_USUARIO/iyotatsiri-eda-calificacion-alimentos.git
 git push -u origin feature/eda-calificacion-alimentos
 ```
-El enlace que entregarás tendrá formato `https://github.com/TU_USUARIO/iyotatsiri-eda-calificacion-alimentos/tree/feature/eda-calificacion-alimentos` y será real solo después de publicarlo.
 =======
 # CalificacionDemanda
 Proyecto de Calificación de Demanda de los procesos de alimentos
