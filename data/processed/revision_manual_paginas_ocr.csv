@@ -1,0 +1,11 @@
+﻿caso_id,documento,pagina,estado,revision_manual,tipo_contenido_validado,contiene_datos_personales,texto_recuperable,observaciones
+CASO_001,caso_001\demanda_1.pdf,6,SIN_TEXTO_OCR,PENDIENTE,,,,
+CASO_002,caso_002\demanda_2.pdf,9,SIN_TEXTO_OCR,PENDIENTE,,,,
+CASO_002,caso_002\demanda_2.pdf,21,SIN_TEXTO_OCR,PENDIENTE,,,,
+CASO_005,caso_005\demanda_5.pdf,5,SIN_TEXTO_OCR,PENDIENTE,,,,
+CASO_005,caso_005\demanda_5.pdf,6,SIN_TEXTO_OCR,PENDIENTE,,,,
+CASO_008,caso_008\demanda_8.pdf,10,SIN_TEXTO_OCR,PENDIENTE,,,,
+CASO_010,caso_010\demanda_10.2.pdf,1,SIN_TEXTO_OCR,PENDIENTE,,,,
+CASO_010,caso_010\demanda_10.2.pdf,2,SIN_TEXTO_OCR,PENDIENTE,,,,
+CASO_010,caso_010\demanda_10.2.pdf,4,SIN_TEXTO_OCR,PENDIENTE,,,,
+CASO_011,caso_011\demanda_11.pdf,39,SIN_TEXTO_OCR,PENDIENTE,,,,
