@@ -1,0 +1,11 @@
+﻿caso_id,numero_paginas,paginas_sin_texto,caracteres_extraidos,tiene_petitorio,tiene_fundamentos_hecho,tiene_fundamentos_derecho,menciona_medios_probatorios,menciona_acta_nacimiento
+CASO_001,13,12,263,0,0,0,0,0
+CASO_002,23,22,300,0,0,0,0,0
+CASO_004,8,0,7080,1,0,0,1,1
+CASO_005,6,5,300,0,0,0,0,0
+CASO_006,9,0,10011,1,1,0,1,1
+CASO_007,10,9,267,0,0,0,0,0
+CASO_008,10,1,10491,1,1,0,1,1
+CASO_009,10,5,8661,1,1,0,1,1
+CASO_010,4,4,1,0,0,0,0,0
+CASO_011,40,2,55659,1,1,0,1,1

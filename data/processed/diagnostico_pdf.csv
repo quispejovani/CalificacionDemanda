@@ -1,0 +1,14 @@
+﻿caso_id,documento,paginas,paginas_sin_texto,estado
+CASO_001,caso_001\demanda_1.pdf,13,2;3;4;5;6;7;8;9;10;11;12;13,REQUIERE_REVISION
+CASO_002,caso_002\demanda_2.pdf,23,2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17;18;19;20;21;22;23,REQUIERE_REVISION
+CASO_004,caso_004\demanda_4.pdf,8,,OK
+CASO_005,caso_005\demanda_5.pdf,6,2;3;4;5;6,REQUIERE_REVISION
+CASO_006,caso_006\demanda_6.pdf,9,,OK
+CASO_007,caso_007\demanda_7.pdf,10,2;3;4;5;6;7;8;9;10,REQUIERE_REVISION
+CASO_008,caso_008\demanda_8.pdf,10,10,REQUIERE_REVISION
+CASO_009,caso_009\demanda_9.pdf,10,,OK
+CASO_009,caso_009\demanda_9.1.pdf,1,,OK
+CASO_010,caso_010\demanda_10.pdf,4,1;2;3;4,REQUIERE_REVISION
+CASO_010,caso_010\demanda_10.1.pdf,1,,OK
+CASO_010,caso_010\demanda_10.2.pdf,6,1;2;3;4;5;6,REQUIERE_REVISION
+CASO_011,caso_011\demanda_11.pdf,40,39,REQUIERE_REVISION

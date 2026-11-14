@@ -1,0 +1,16 @@
+{
+  "fecha": "2026-11-13T17:00:46.883270",
+  "semilla": 42,
+  "validacion": "Leave-One-Out",
+  "n_casos": 4,
+  "clases_observadas": [
+    "ADMISIBLE",
+    "INADMISIBLE"
+  ],
+  "clases_objetivo": [
+    "ADMISIBLE",
+    "INADMISIBLE",
+    "IMPROCEDENTE"
+  ],
+  "limitacion": "Experimento exploratorio con muestra muy reducida. No valida el rendimiento para uso judicial."
+}
