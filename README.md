@@ -19,16 +19,6 @@ Explorar la calidad y distribución de demandas y resoluciones históricas de al
 - La resolución es **fuente de etiqueta**, no característica predictora: evitar fuga de información al entrenar.
 - Dividir futuros conjuntos train/validation/test por expediente/grupo y, de ser posible, por tiempo.
 - El EDA no entrena ni aprueba ningún modelo.
-
-## Publicación de rama
-```bash
-git init
-git checkout -b feature/eda-calificacion-alimentos
-git add .
-git commit -m "EDA inicial de calificación de alimentos"
-git remote add origin https://github.com/TU_USUARIO/iyotatsiri-eda-calificacion-alimentos.git
-git push -u origin feature/eda-calificacion-alimentos
-```
 =======
 # CalificacionDemanda
 Proyecto de Calificación de Demanda de los procesos de alimentos
