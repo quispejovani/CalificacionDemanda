@@ -1,0 +1,4 @@
+﻿experimento,n_casos,accuracy,f1_macro,precision_macro,recall_macro,tiempo_cv_segundos
+E0_TFIDF_LOGREG,4,0.0,0.0,0.0,0.0,0.0687
+E1_TFIDF_BIGRAM_LOGREG,4,0.0,0.0,0.0,0.0,0.15
+E2_TFIDF_NB,4,0.0,0.0,0.0,0.0,0.1069

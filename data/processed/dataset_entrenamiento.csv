@@ -1,0 +1,11 @@
+﻿caso_id,demanda_principal,documentos_complementarios,estado,etiqueta_validada
+CASO_001,caso_001\demanda_1.pdf,,pendiente_verificacion,ADMISIBLE
+CASO_002,caso_002\demanda_2.pdf,,pendiente_verificacion,ADMISIBLE
+CASO_004,caso_004\demanda_4.pdf,,pendiente_verificacion,ADMISIBLE
+CASO_005,caso_005\demanda_5.pdf,,pendiente_verificacion,INADMISIBLE
+CASO_006,caso_006\demanda_6.pdf,,pendiente_verificacion,ADMISIBLE
+CASO_007,caso_007\demanda_7.pdf,,pendiente_verificacion,ADMISIBLE
+CASO_008,caso_008\demanda_8.pdf,,pendiente_verificacion,ADMISIBLE
+CASO_009,caso_009\demanda_9.pdf,caso_009\demanda_9.1.pdf,pendiente_verificacion,ADMISIBLE
+CASO_010,caso_010\demanda_10.pdf,caso_010\demanda_10.1.pdf;caso_010\demanda_10.2.pdf,pendiente_verificacion,ADMISIBLE
+CASO_011,caso_011\demanda_11.pdf,,pendiente_verificacion,ADMISIBLE

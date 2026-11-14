@@ -1,0 +1,11 @@
+﻿caso_id,documentos_esperados,documentos_procesados,paginas,paginas_ocr,paginas_sin_resultado,estado,errores
+CASO_001,1,1,13,12,1,REVISAR,
+CASO_002,1,1,23,22,2,REVISAR,
+CASO_004,1,1,8,0,0,OK,
+CASO_005,1,1,6,5,2,REVISAR,
+CASO_006,1,1,9,0,0,OK,
+CASO_007,1,1,10,9,0,OK,
+CASO_008,1,1,10,1,1,REVISAR,
+CASO_009,2,2,11,0,0,OK,
+CASO_010,3,3,11,10,3,REVISAR,
+CASO_011,1,1,40,1,1,REVISAR,

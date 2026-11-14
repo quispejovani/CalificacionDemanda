@@ -1,0 +1,25 @@
+﻿caso_id,documento,tipo_documento,usar_texto_modelo,seleccion_validada,observacion
+CASO_009,caso_009\demanda_9.1.pdf,COMPLEMENTARIO,NO,SI,Documento complementario; no usar como demanda
+CASO_009,caso_009\demanda_9.pdf,DEMANDA_PRINCIPAL,SI,SI,Demanda principal confirmada
+CASO_010,caso_010\demanda_10.1.pdf,COMPLEMENTARIO,NO,SI,Documento complementario; no usar como demanda
+CASO_010,caso_010\demanda_10.2.pdf,COMPLEMENTARIO,NO,SI,Documento complementario; no usar como demanda
+CASO_010,caso_010\demanda_10.pdf,DEMANDA_PRINCIPAL,SI,SI,Demanda principal confirmada
+CASO_021,CASO_021\DEMANDA_021.1.pdf,COMPLEMENTARIO,NO,SI,Documento complementario; no usar como demanda
+CASO_021,CASO_021\DEMANDA_021.pdf,DEMANDA_PRINCIPAL,SI,SI,Demanda principal confirmada
+CASO_030,CASO_030\DEMANDA_030.1.pdf,COMPLEMENTARIO,NO,SI,Documento complementario; no usar como demanda
+CASO_030,CASO_030\DEMANDA_030.pdf,DEMANDA_PRINCIPAL,SI,SI,Demanda principal confirmada
+CASO_069,CASO_069\DEMANDA_069.1.pdf,COMPLEMENTARIO,NO,SI,Documento complementario; no usar como demanda
+CASO_069,CASO_069\DEMANDA_069.pdf,DEMANDA_PRINCIPAL,SI,SI,Demanda principal confirmada
+CASO_074,CASO_074\DEMANDA_074.1.pdf,COMPLEMENTARIO,NO,SI,Documento complementario; no usar como demanda
+CASO_074,CASO_074\DEMANDA_074.pdf,DEMANDA_PRINCIPAL,SI,SI,Demanda principal confirmada
+CASO_079,CASO_079\DEMANDA_079.1.pdf,COMPLEMENTARIO,NO,SI,Documento complementario; no usar como demanda
+CASO_079,CASO_079\DEMANDA_079.pdf,DEMANDA_PRINCIPAL,SI,SI,Demanda principal confirmada
+CASO_095,CASO_095\DEMANDA_095.1.pdf,COMPLEMENTARIO,NO,SI,Documento complementario; no usar como demanda
+CASO_095,CASO_095\DEMANDA_095.pdf,DEMANDA_PRINCIPAL,SI,SI,Demanda principal confirmada
+CASO_097,CASO_097\DEMANDA_097.1.pdf,COMPLEMENTARIO,NO,SI,Documento complementario; no usar como demanda
+CASO_097,CASO_097\DEMANDA_097.pdf,DEMANDA_PRINCIPAL,SI,SI,Demanda principal confirmada
+CASO_099,CASO_099\DEMANDA_099.1.pdf,COMPLEMENTARIO,NO,SI,Documento complementario; no usar como demanda
+CASO_099,CASO_099\DEMANDA_099.pdf,DEMANDA_PRINCIPAL,SI,SI,Demanda principal confirmada
+CASO_101,CASO_101\DEMANDA_101.1.pdf,COMPLEMENTARIO,NO,SI,Documento complementario; no usar como demanda
+CASO_101,CASO_101\DEMANDA_101.2.pdf,COMPLEMENTARIO,NO,SI,Documento complementario; no usar como demanda
+CASO_101,CASO_101\DEMANDA_101.pdf,DEMANDA_PRINCIPAL,SI,SI,Demanda principal confirmada

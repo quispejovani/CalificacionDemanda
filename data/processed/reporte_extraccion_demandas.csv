@@ -1,0 +1,11 @@
+﻿caso_id,documentos_esperados,documentos_extraidos,paginas,paginas_sin_texto,estado,errores
+CASO_001,1,1,13,12,REVISAR,
+CASO_002,1,1,23,22,REVISAR,
+CASO_004,1,1,8,0,OK,
+CASO_005,1,1,6,5,REVISAR,
+CASO_006,1,1,9,0,OK,
+CASO_007,1,1,10,9,REVISAR,
+CASO_008,1,1,10,1,REVISAR,
+CASO_009,2,2,11,0,OK,
+CASO_010,3,1,11,10,REVISAR,caso_010\demanda_10.pdf: ValueError: PDF sin texto extraible | caso_010\demanda_10.2.pdf: ValueError: PDF sin texto extraible
+CASO_011,1,1,40,1,REVISAR,
